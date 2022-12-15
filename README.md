@@ -23,7 +23,7 @@
 - Se ingresa la respuesta en el clase MainPunto6
 
 ### 3 punto
-- Se ingresa la respuesta en el clase MainPunto6
+- Se ingresa la respuesta en el clase MainPunto7
 
 ## 🚀 Acerca de mí...
 • Puedo describirme como: autodidacta, ágil, comunicativo, responsable, dedicado y proactivo. Soy amante de la 
