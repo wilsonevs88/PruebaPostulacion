@@ -26,13 +26,9 @@
 - Se ingresa la respuesta en el clase MainPunto7
 
 ## 🚀 Acerca de mí...
-• Puedo describirme como: autodidacta, ágil, comunicativo, responsable, dedicado y proactivo. Soy amante de la 
-tecnología y la innovación, lo que me da un plus al momento de afrontar nuevos retos.
+• Puedo describirme como: autodidacta, ágil, comunicativo, responsable, dedicado y proactivo. Soy amante de la tecnología y la innovación, lo que me da un plus al momento de afrontar nuevos retos.
 
-• Cuento con más de 2 año desempeñándome como Java developer, tengo la fortuna de participar en multiples proyectos 
-importantes dentro de la industrias TI donde me desempeño como desarrollador Backend manejando lenguajes como Java, 
-Spring Boot, Microservicios, Microservicios, Postman, GitLab, Maven, Docker, Kubernet, Integración continua Jenkins, 
-Google Gloud..
+• Cuento con más de dos años de experiencia en los que he tenido la oportunidad de participar en múltiples proyectos importantes dentro de la industria TI desempeñándome como desarrollador Backend manejando lenguajes como Java, Spring Boot, Microservicios, Microservicios, Postman, GitLab, Maven, Docker, Kubernet, Integración continua Jenkins, Google Gloud...
 
 
 ## Autor 🔗
