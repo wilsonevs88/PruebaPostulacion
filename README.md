@@ -1,15 +1,13 @@
 # PRUEBA TÉCNICA
 
+## Examen Junior
 ### 1 punto
-
 - Se ingresa la respuesta en el clase MainPunto1
 
 ### 2 punto
-
 - Se ingresa la respuesta en el clase MainPunto2
 
 ### 3 punto
-
 - Se ingresa la respuesta en el clase MainPunto3
 
 ### 4 punto
@@ -17,6 +15,15 @@
 2. debe hacer la conversión de BigDecimal a Double decimaldoubleValue(); y segundo deben corregir el llamado de ese metodo
 
 
+## Examen Senior
+### 1 punto
+- Se ingresa la respuesta en el clase MainPunto5
+
+### 2 punto
+- Se ingresa la respuesta en el clase MainPunto6
+
+### 3 punto
+- Se ingresa la respuesta en el clase MainPunto6
 
 ## 🚀 Acerca de mí...
 • Soy una persona autodidacta, ágil, comunicativo, responsable, dedicado y proactivo,
@@ -35,5 +42,7 @@ Sql, NoSql y despliegue en tomcat.
 ## Autor
 
 - [@Github/wilsonevs](https://github.com/wilsonevs)
+- [@Github/wilsonevs](https://github.com/wilsonevs88)
 - [@Linkedin/wilsonevs](https://www.linkedin.com/in/wilsonvalencs/)
 - [@Torre/wilsonevs](https://torre.co/wilson_evs)
+- [Correo Wilson](mailto:wilsonev.saldarriaga88@gmail.com?subject=Hola Wilson)
