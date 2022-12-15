@@ -2,15 +2,15 @@
 
 ### 1 punto
 
-- Se ingresa la respuesta en el clase MainPelicula
+- Se ingresa la respuesta en el clase MainPunto1
 
 ### 2 punto
 
-- Se ingresa la respuesta en el clase mainList
-- 
+- Se ingresa la respuesta en el clase MainPunto2
+
 ### 3 punto
 
-- Se ingresa la respuesta en el clase mainRever
+- Se ingresa la respuesta en el clase MainPunto3
 
 ### 4 punto
 1. Primero debe cambiar la palabra double y segundo debe hacer una cnversion String.valueOf(doubles);
