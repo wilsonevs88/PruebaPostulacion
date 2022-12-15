@@ -7,16 +7,14 @@ import java.util.Scanner;
 public class MainPunto1 {
     public static void main(String[] args) throws ParseException {
 
+        System.out.println("*****  Punto 1  *****");
 
         Scanner sc = new Scanner (System.in);
         var pelicula = new Peliculas();
-
         System.out.println("Ingrese un nombe nombre: ");
         pelicula.setNombre(sc.nextLine());
-
         System.out.println("Ingrese nombre del autor: ");
         pelicula.setAutor(sc.nextLine());
-
         Date date = new Date();
         pelicula.setFechaPublicacion(date);
 

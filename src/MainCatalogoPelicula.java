@@ -9,13 +9,10 @@ public class MainCatalogoPelicula {
 
         Scanner sc = new Scanner (System.in);
         var pelicula = new CatalogoPelicula();
-
         System.out.println("Ingrese un nombe pelicula: ");
         pelicula.setNombre(sc.nextLine());
-
         System.out.println("Ingrese nombre del autor: ");
         pelicula.setAutor(sc.nextLine());
-
 
         getMostrar(pelicula);
 

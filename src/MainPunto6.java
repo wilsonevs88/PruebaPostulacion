@@ -4,6 +4,7 @@ public class MainPunto6 {
 
     public static void main(String[] args) {
 
+        System.out.println("*****  Punto 6  *****");
         Scanner sc = new Scanner(System.in);
         var num1 = 0.0;
         var num2 = 0.0;
@@ -16,9 +17,14 @@ public class MainPunto6 {
         num2 = sc.nextDouble();
         mostrar(" ----- Ingrese el número de la operación que desea realizar -----");
         mostrar("1 = suma \n2 = resta \n3 = multiplicación \n4 = división \n5 = raíz cuadrada");
+
         operacion = sc.nextInt();
 
+        resultado = getResultado(num1, num2, operacion, resultado);
+        mostrar("Resultado: " + resultado);
+    }
 
+    private static double getResultado(double num1, double num2, int operacion, double resultado) {
         switch (operacion) {
             case 1: // Suma
                 resultado = num1 + num2;
@@ -38,7 +44,7 @@ public class MainPunto6 {
             default:
                 mostrar("Operación inválida");
         }
-        mostrar("Resultado: " + resultado);
+        return resultado;
     }
 
     private static void mostrar(String resultado) {
