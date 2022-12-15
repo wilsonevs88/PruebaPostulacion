@@ -1,4 +1,4 @@
-# PRUEBA TÉCNICA
+# PRUEBA TÉCNICA 💻
 
 ## Examen Junior
 ### 1 punto
@@ -26,23 +26,19 @@
 - Se ingresa la respuesta en el clase MainPunto6
 
 ## 🚀 Acerca de mí...
-• Soy una persona autodidacta, ágil, comunicativo, responsable, dedicado y proactivo,
-amante de la tecnología e innovador. siempre dispuesto a afrontar nuevos retos que
-me hagan crecer tanto personal como profesionalmente, Cuento con más de 1 año de
-experiencia como developer java.
+• Puedo describirme como: autodidacta, ágil, comunicativo, responsable, dedicado y proactivo. Soy amante de la 
+tecnología y la innovación, lo que me da un plus al momento de afrontar nuevos retos.
 
-• Actualmente e tenido la gran oportunidad de participar en más
-de 3 proyectos importantes dentro de la organización junto con un gran
-equipo de desarrolladores, donde me desempeño como desarrollador
-Backend manejando lenguaje como Java, Spring Boot, Thymeleaf,
-Microservicios, Postman, AWS, Bitbucket, Maven, Kafka, Mqtt, Base de datos
-Sql, NoSql y despliegue en tomcat.
+• Cuento con más de 2 año desempeñándome como Java developer, tengo la fortuna de participar en multiples proyectos 
+importantes dentro de la industrias TI donde me desempeño como desarrollador Backend manejando lenguajes como Java, 
+Spring Boot, Microservicios, Microservicios, Postman, GitLab, Maven, Docker, Kubernet, Integración continua Jenkins, 
+Google Gloud..
 
 
-## Autor
+## Autor 🔗
 
 - [@Github/wilsonevs](https://github.com/wilsonevs)
 - [@Github/wilsonevs](https://github.com/wilsonevs88)
 - [@Linkedin/wilsonevs](https://www.linkedin.com/in/wilsonvalencs/)
 - [@Torre/wilsonevs](https://torre.co/wilson_evs)
-- [Correo Wilson](mailto:wilsonev.saldarriaga88@gmail.com?subject=Hola Wilson)
+- [Correo Wilson](mailto:wilsonev.saldarriaga88@gmail.com?subject=Hola Wilson) 📧
